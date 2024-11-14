@@ -9,7 +9,7 @@ namespace Api_RESTFul.Servicios
     {
 
         // REPRESENTA LA DB:
-        private readonly MyDBcontext _MyDBcontext;
+        private readonly MyDBcontext _MyDBcontext; 
 
         // CONSTRUCTOR:
         public Servicios_TipoEstacionamiento(MyDBcontext myDBcontext)
